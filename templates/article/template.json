@@ -1,0 +1,6 @@
+{
+  "name": "Basic Article",
+  "description": "A minimal article template for local LaTeX writing.",
+  "main_file": "main.tex",
+  "compiler": "xelatex"
+}

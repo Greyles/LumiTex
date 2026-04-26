@@ -1,0 +1,6 @@
+{
+  "name": "IEEE-style Two-column",
+  "description": "A simple IEEE-style two-column paper template.",
+  "main_file": "main.tex",
+  "compiler": "xelatex"
+}
