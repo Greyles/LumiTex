@@ -1,6 +1,6 @@
-# LumiTeX
+# ClariTeX
 
-**LumiTeX** is a lightweight LaTeX editor, LaTeX compiler, and PDF preview tool for academic writing.
+**ClariTeX** is a lightweight LaTeX editor, LaTeX compiler, and PDF preview tool for academic writing.
 ## Features
 
 - Modern PySide6 + QML interface
@@ -32,7 +32,7 @@ Example:
 
 ## Requirements
 
-LumiTeX does **not** include a LaTeX distribution.
+ClariTeX does **not** include a LaTeX distribution.
 
 Please install one of the following first:
 
@@ -56,8 +56,8 @@ latexmk --version
 ## Installation
 
 ```bash
-git clone https://github.com/Greyles/LumiTex.git
-cd LumiTex
+git clone https://github.com/Greyles/ClariTeX.git
+cd ClariTeX
 pip install -r requirements.txt
 python main.py
 ```
@@ -103,17 +103,17 @@ build_windows.bat
 The packaged app will be generated in:
 
 ```text
-dist/LumiTeX/
+dist/ClariTeX/
 ```
 
-LumiTeX does not package MiKTeX or TeX Live.
+ClariTeX does not package MiKTeX or TeX Live.
 
 ## Project Structure
 
 ```text
-LumiTeX/
+ClariTeX/
 ├── main.py
-├── lumitex/
+├── ClariTeX/
 ├── qml/
 ├── templates/
 ├── examples/
