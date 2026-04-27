@@ -1,9 +1,6 @@
 # LumiTeX
 
-**LumiTeX** is a lightweight, modern, local-first LaTeX writing studio for academic writing.
-
-It helps users write, compile, preview, and manage LaTeX projects in a clean desktop environment.
-
+**LumiTeX** is a lightweight LaTeX editor, LaTeX compiler, and PDF preview tool for academic writing.
 ## Features
 
 - Modern PySide6 + QML interface
